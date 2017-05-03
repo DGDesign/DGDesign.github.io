@@ -1321,31 +1321,6 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   .menu1 .container-fluid {
     padding-right: 35px;
     padding-left: 35px; } }
-.navbar-toggler.collapsed .hum-top, .hum-middle, .hum-bottom {
-  position: absolute;
-  content: "";
-  right: 0;
-  width: 20px;
-  height: 3px; }
-
-.navbar-toggler.collapsed .hum-top {
-  top: -1px; }
-
-.navbar-toggler.collapsed .hum-middle {
-  top: 6px; }
-
-.navbar-toggler.collapsed .hum-bottom {
-  bottom: 0; }
-
-.navbar-close .close-icon {
-  display: block; }
-
-.navbar-close.collapsed .close-icon {
-  display: none; }
-
-.navbar-toggler {
-  position: relative; }
-
 .header1 .mbr-table-cell {
   vertical-align: bottom; }
 .header1 .heading {

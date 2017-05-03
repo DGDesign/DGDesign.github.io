@@ -21,8 +21,8 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 96,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 113,
+    "versionPublish": "3.11.1"
   },
   "pages": {
     "index.html": {
@@ -440,7 +440,7 @@
           "title2": "",
           "text1": "",
           "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
         },
         {
           "_styles": {
@@ -577,6 +577,36 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeIllustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobePhotoshophtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Master Recreation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Adobe Premiere</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobePremeireGallery.html\">Video Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobePremiereBG.html\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoftExcel.html\">Microsoft Excel</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mircosoftWordDiscussits.html\">Discuss its</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mircosoftWordGallery.html\">Gallery</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maria Campos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Del Valle<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Migual Balsera<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-black\" href=\"#\">Resume</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer3",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#ff9685"
+            }
+          },
+          "_anchor": "footer3-2o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#fff"
+          },
+          "title1": "9059 SW 133rd ct, unit c, miami, fl",
+          "text2": "+1 (786) 340-7809",
+          "title2": "",
+          "text1": "",
+          "title3": "Need help?",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
         },
         {
           "_styles": {
@@ -805,36 +835,6 @@
           },
           "title": "Test Scores",
           "meta": "By <b>John Smith</b> posted July 20, 2016"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer3",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#ff9685"
-            }
-          },
-          "_anchor": "footer3-j",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
-          },
-          "title1": "9059 SW 133rd ct, unit c, miami, fl",
-          "text2": "+1 (786) 340-7809",
-          "title2": "",
-          "text1": "",
-          "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -973,34 +973,102 @@
           "text": "Copyright (c) 2017 DG Designs."
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer3",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#ff9685"
-            }
-          },
-          "_anchor": "footer3-k",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery009.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0110.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0110.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0211.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0211.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0312.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0312.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0413.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0614.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0614.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0515.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0515.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0716.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0716.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
             "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
           },
-          "title1": "9059 SW 133rd ct, unit c, miami, fl",
-          "text2": "+1 (786) 340-7809",
-          "title2": "",
-          "text1": "",
-          "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "_anchor": "gallery2-2r",
+          "articleLayout": false,
+          "allItem": "All",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
         },
         {
           "_tags": [
@@ -1012,13 +1080,13 @@
               "color": "#ff9685"
             }
           },
-          "_anchor": "footer3-l",
+          "_anchor": "footer3-2s",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
             "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": true,
@@ -1030,7 +1098,7 @@
           "title2": "",
           "text1": "",
           "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -1169,34 +1237,102 @@
           "text": "Copyright (c) 2017 DG Designs."
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer3",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#ff9685"
-            }
-          },
-          "_anchor": "footer3-o",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery009.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0110.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0110.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0211.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0211.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0312.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0312.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0413.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0614.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0614.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0515.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0515.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0716.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0716.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
             "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
           },
-          "title1": "9059 SW 133rd ct, unit c, miami, fl",
-          "text2": "+1 (786) 340-7809",
-          "title2": "",
-          "text1": "",
-          "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "_anchor": "gallery2-2t",
+          "articleLayout": false,
+          "allItem": "All",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
         },
         {
           "_tags": [
@@ -1208,13 +1344,13 @@
               "color": "#ff9685"
             }
           },
-          "_anchor": "footer3-p",
+          "_anchor": "footer3-2u",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
             "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": true,
@@ -1226,7 +1362,7 @@
           "title2": "",
           "text1": "",
           "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -1365,34 +1501,102 @@
           "text": "Copyright (c) 2017 DG Designs."
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer3",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#ff9685"
-            }
-          },
-          "_anchor": "footer3-s",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery009.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0110.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0110.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0211.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0211.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0312.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0312.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0413.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0614.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0614.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0515.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0515.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0716.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0716.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
             "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
           },
-          "title1": "9059 SW 133rd ct, unit c, miami, fl",
-          "text2": "+1 (786) 340-7809",
-          "title2": "",
-          "text1": "",
-          "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "_anchor": "gallery2-2w",
+          "articleLayout": false,
+          "allItem": "All",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
         },
         {
           "_tags": [
@@ -1404,13 +1608,13 @@
               "color": "#ff9685"
             }
           },
-          "_anchor": "footer3-t",
+          "_anchor": "footer3-2x",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
             "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": true,
@@ -1422,7 +1626,7 @@
           "title2": "",
           "text1": "",
           "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -1561,34 +1765,102 @@
           "text": "Copyright (c) 2017 DG Designs."
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer3",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#ff9685"
-            }
-          },
-          "_anchor": "footer3-w",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery009.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0110.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0110.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0211.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0211.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0312.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0312.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0413.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0614.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0614.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0515.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0515.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0716.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0716.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
             "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
           },
-          "title1": "9059 SW 133rd ct, unit c, miami, fl",
-          "text2": "+1 (786) 340-7809",
-          "title2": "",
-          "text1": "",
-          "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "_anchor": "gallery2-2y",
+          "articleLayout": false,
+          "allItem": "All",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
         },
         {
           "_tags": [
@@ -1600,13 +1872,13 @@
               "color": "#ff9685"
             }
           },
-          "_anchor": "footer3-x",
+          "_anchor": "footer3-2z",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
             "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": true,
@@ -1618,7 +1890,7 @@
           "title2": "",
           "text1": "",
           "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -1757,34 +2029,102 @@
           "text": "Copyright (c) 2017 DG Designs."
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer3",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#ff9685"
-            }
-          },
-          "_anchor": "footer3-10",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery00.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery01.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery02.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery03.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery03.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery04.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery04.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery06.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery05.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery05.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery07.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
             "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
           },
-          "title1": "9059 SW 133rd ct, unit c, miami, fl",
-          "text2": "+1 (786) 340-7809",
-          "title2": "",
-          "text1": "",
-          "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "_anchor": "gallery2-2p",
+          "articleLayout": false,
+          "allItem": "All",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
         },
         {
           "_tags": [
@@ -1796,13 +2136,13 @@
               "color": "#ff9685"
             }
           },
-          "_anchor": "footer3-11",
+          "_anchor": "footer3-2q",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
             "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": true,
@@ -1814,7 +2154,7 @@
           "title2": "",
           "text1": "",
           "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -1953,34 +2293,102 @@
           "text": "Copyright (c) 2017 DG Designs."
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer3",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#ff9685"
-            }
-          },
-          "_anchor": "footer3-14",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery009.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0110.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0110.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0211.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0211.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0312.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0312.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0413.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0614.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0614.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0515.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0515.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0716.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0716.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
             "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
           },
-          "title1": "9059 SW 133rd ct, unit c, miami, fl",
-          "text2": "+1 (786) 340-7809",
-          "title2": "",
-          "text1": "",
-          "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "_anchor": "gallery2-30",
+          "articleLayout": false,
+          "allItem": "All",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
         },
         {
           "_tags": [
@@ -1992,13 +2400,13 @@
               "color": "#ff9685"
             }
           },
-          "_anchor": "footer3-15",
+          "_anchor": "footer3-31",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
             "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": true,
@@ -2010,7 +2418,7 @@
           "title2": "",
           "text1": "",
           "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -2149,34 +2557,102 @@
           "text": "Copyright (c) 2017 DG Designs."
         },
         {
+          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer3",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#ff9685"
-            }
-          },
-          "_anchor": "footer3-18",
+          "_name": "gallery2",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery009.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery009.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0110.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0110.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0211.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0211.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0312.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0312.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0413.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0614.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0614.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0515.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0515.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "videoPreview": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gallery0716.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gallery0716.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
             "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
           },
-          "title1": "9059 SW 133rd ct, unit c, miami, fl",
-          "text2": "+1 (786) 340-7809",
-          "title2": "",
-          "text1": "",
-          "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "_anchor": "gallery2-32",
+          "articleLayout": false,
+          "allItem": "All",
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">"
         },
         {
           "_tags": [
@@ -2188,13 +2664,13 @@
               "color": "#ff9685"
             }
           },
-          "_anchor": "footer3-19",
+          "_anchor": "footer3-33",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
             "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": true,
@@ -2206,7 +2682,7 @@
           "title2": "",
           "text1": "",
           "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -2318,6 +2794,36 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"123D.html\">123D</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobeIllustrator.html\">Adobe Illustrator</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adobePhotoshophtml\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Master Recreation</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Adobe Premiere</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobePremeireGallery.html\">Video Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adobePremiereBG.html\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"microsoftExcel.html\">Microsoft Excel</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mircosoftWordDiscussits.html\">Discuss its</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mircosoftWordGallery.html\">Gallery</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"credentials.html\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Matthew Pate<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maria Campos<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Glenda Puente<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Anmaree Del Valle<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Dr. Migual Balsera<br></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-lg btn btn-black\" href=\"#\">Resume</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer3",
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#ff9685"
+            }
+          },
+          "_anchor": "footer3-34",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#fff"
+          },
+          "title1": "9059 SW 133rd ct, unit c, miami, fl",
+          "text2": "+1 (786) 340-7809",
+          "title2": "",
+          "text1": "",
+          "title3": "Need help?",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
         },
         {
           "_styles": {
@@ -2508,7 +3014,7 @@
               "text-align": "center"
             },
             "H1": {
-              "color": "#ffb6ab",
+              "color": "#616161",
               "font-size": "8px"
             }
           },
@@ -2520,7 +3026,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ffb6ab",
+            "bgColor": "#616161",
             "showMeta": false
           },
           "title": "Test Scores",
@@ -2544,7 +3050,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#fff",
+            "bgColor": "#fffffd",
             "showMeta": false
           },
           "title": "Test Scores",
@@ -2664,7 +3170,7 @@
               "text-align": "center"
             },
             "H1": {
-              "color": "#ffb6ab",
+              "color": "#616161",
               "font-size": "8px"
             }
           },
@@ -2676,7 +3182,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ffb6ab",
+            "bgColor": "#616161",
             "showMeta": false
           },
           "title": "Test Scores",
@@ -2798,7 +3304,7 @@
               "text-align": "center"
             },
             "H1": {
-              "color": "#ffb6ab",
+              "color": "#616161",
               "font-size": "8px"
             }
           },
@@ -2810,7 +3316,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ffb6ab",
+            "bgColor": "#616161",
             "showMeta": false
           },
           "title": "Test Scores",
@@ -2955,7 +3461,7 @@
               "text-align": "center"
             },
             "H1": {
-              "color": "#ffb6ab",
+              "color": "#616161",
               "font-size": "8px"
             }
           },
@@ -2967,41 +3473,11 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ffb6ab",
+            "bgColor": "#616161",
             "showMeta": false
           },
           "title": "Test Scores",
           "meta": "By <b>John Smith</b> posted July 20, 2016"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer3",
-          "_styles": {
-            ".mbr-section-text": {
-              "color": "#ff9685"
-            }
-          },
-          "_anchor": "footer3-1h",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#fff"
-          },
-          "title1": "9059 SW 133rd ct, unit c, miami, fl",
-          "text2": "+1 (786) 340-7809",
-          "title2": "",
-          "text1": "",
-          "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
         }
       ]
     },
@@ -3821,7 +4297,7 @@
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/32-2000x1333-1-800x6002.png",
+                "image": "@PROJECT_PATH@/assets/images/32-2000x1333-1-800x60017.png",
                 "title": "title 1",
                 "text": "text 1",
                 "tooltip": "@PROJECT_PATH@/assets/images/32-2000x1333-85x48-1.png"
@@ -3867,13 +4343,13 @@
               "color": "#ff9685"
             }
           },
-          "_anchor": "footer3-2l",
+          "_anchor": "footer3-2v",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgImageRadio": false,
             "parallax": false,
-            "bgImage": "file:///Users/Delaila/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
+            "bgImage": "file:///Users/MDCPS/Library/Application%20Support/Mobirise.com/Mobirise/projectData/01.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": true,
@@ -3885,7 +4361,7 @@
           "title2": "",
           "text1": "",
           "title3": "Need help?",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">Contact Me</a>"
         }
       ]
     }

@@ -1384,9 +1384,6 @@ a:hover {
   font-size: 12px;
   font-family: 'Ubuntu', sans-serif;
 }
-#footer3-3f .mbr-section-text {
-  color: #ff9685;
-}
 #footer4-1f p {
   color: #000;
 }
@@ -1501,6 +1498,9 @@ a:hover {
 #content3-2a H1 {
   color: #616161;
   font-size: 8px;
+}
+#footer3-3f .mbr-section-text {
+  color: #ff9685;
 }
 
 

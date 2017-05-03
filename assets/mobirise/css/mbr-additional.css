@@ -706,9 +706,6 @@ a:hover {
   font-size: 12px;
   font-family: 'Ubuntu', sans-serif;
 }
-#footer3-35 .mbr-section-text {
-  color: #ff9685;
-}
 #footer4-c p {
   color: #000;
 }
@@ -735,6 +732,9 @@ a:hover {
 #content3-2h H1 {
   color: #616161;
   font-size: 8px;
+}
+#footer3-3h .mbr-section-text {
+  color: #ff9685;
 }
 
 
@@ -1196,11 +1196,15 @@ a:hover {
   color: #000;
 }
 #features22-3a .card .mbr-iconfont {
-  background: #616161;
-  border-color: #616161;
+  background: #fffffd;
+  border-color: #fffffd;
 }
 #features22-3a .card-text {
   font-size: 12px;
+  color: #ffb6ab;
+}
+#features22-3a .card-title {
+  color: #ffb6ab;
 }
 #content3-3b .mbr-section-title,
 #content3-3b .mbr-section-subtitle {
@@ -1288,11 +1292,15 @@ a:hover {
   color: #000;
 }
 #features22-3e .card .mbr-iconfont {
-  background: #616161;
-  border-color: #616161;
+  background: #fffffd;
+  border-color: #fffffd;
 }
 #features22-3e .card-text {
   font-size: 12px;
+  color: #ffb6ab;
+}
+#features22-3e .card-title {
+  color: #ffb6ab;
 }
 #content3-3d .mbr-section-title,
 #content3-3d .mbr-section-subtitle {
@@ -1653,8 +1661,14 @@ a:hover {
   color: #000;
 }
 #features22-38 .card .mbr-iconfont {
-  background: #616161;
-  border-color: #616161;
+  background: #fffffd;
+  border-color: #fffffd;
+}
+#features22-38 .card-title {
+  color: #ffb6ab;
+}
+#features22-38 .card-text {
+  color: #ffb6ab;
 }
 #content3-39 .mbr-section-title,
 #content3-39 .mbr-section-subtitle {

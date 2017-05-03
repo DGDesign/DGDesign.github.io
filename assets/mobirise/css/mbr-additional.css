@@ -626,7 +626,7 @@ a:hover {
   text-align: center;
 }
 #content3-2b H1 {
-  color: #ffb6ab;
+  color: #616161;
   font-size: 8px;
 }
 #footer3-6 .mbr-section-text {
@@ -706,7 +706,7 @@ a:hover {
   font-size: 12px;
   font-family: 'Ubuntu', sans-serif;
 }
-#footer3-2o .mbr-section-text {
+#footer3-35 .mbr-section-text {
   color: #ff9685;
 }
 #footer4-c p {
@@ -733,7 +733,7 @@ a:hover {
   text-align: center;
 }
 #content3-2h H1 {
-  color: #ffb6ab;
+  color: #616161;
   font-size: 8px;
 }
 
@@ -1195,6 +1195,21 @@ a:hover {
 #footer4-13 p {
   color: #000;
 }
+#features22-3a .card .mbr-iconfont {
+  background: #616161;
+  border-color: #616161;
+}
+#features22-3a .card-text {
+  font-size: 12px;
+}
+#content3-3b .mbr-section-title,
+#content3-3b .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-3b H1 {
+  color: #616161;
+  font-size: 8px;
+}
 #footer3-31 .mbr-section-text {
   color: #ff9685;
 }
@@ -1272,6 +1287,21 @@ a:hover {
 #footer4-17 p {
   color: #000;
 }
+#features22-3e .card .mbr-iconfont {
+  background: #616161;
+  border-color: #616161;
+}
+#features22-3e .card-text {
+  font-size: 12px;
+}
+#content3-3d .mbr-section-title,
+#content3-3d .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-3d H1 {
+  color: #616161;
+  font-size: 8px;
+}
 #footer3-33 .mbr-section-text {
   color: #ff9685;
 }
@@ -1346,7 +1376,7 @@ a:hover {
   font-size: 12px;
   font-family: 'Ubuntu', sans-serif;
 }
-#footer3-34 .mbr-section-text {
+#footer3-3f .mbr-section-text {
   color: #ff9685;
 }
 #footer4-1f p {
@@ -1622,17 +1652,17 @@ a:hover {
 #footer4-1n p {
   color: #000;
 }
-#header5-1q .mbr-section-title,
-#header5-1q .mbr-section-subtitle {
-  margin-bottom: 1rem;
-  color: #ffffff;
+#features22-38 .card .mbr-iconfont {
+  background: #616161;
+  border-color: #616161;
 }
-#header5-1q .mbr-iconfont {
-  color: undefined;
-  border-color: undefined;
+#content3-39 .mbr-section-title,
+#content3-39 .mbr-section-subtitle {
+  text-align: center;
 }
-#header5-1q .mbr-table-cell {
-  vertical-align: middle;
+#content3-39 H1 {
+  color: #616161;
+  font-size: 8px;
 }
 #footer3-1o .mbr-section-text {
   color: #ff9685;
